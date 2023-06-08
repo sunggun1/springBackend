@@ -1,8 +1,9 @@
 # springBackend
 스프링, 리액트, aws를 사용한 메모 프로젝트 입니다.<br>
-backend : spring datajpa, jpa, mysql, aws ec2, h2, lombok, spring security, jwt token<br>
+backend : spring datajpa, jpa, lombok, spring security, jwt token<br>
 frontend : react <br>
 server : ec2, rds<br>
+sql : mysql, h2
 <hr>
 
 서버 주소들<br>
