@@ -31,6 +31,10 @@ nginx 설정 (https://tobegood.tistory.com/entry/Nginx%EB%A1%9C-React%EB%A5%BC-%
 GET / : http://13.124.30.40:8080/ (헬스체크 용도)<br>
 회원가입 POST auth/signup : http://13.124.30.40:8080/auth/signup<br>
 로그인(jwt token 사용) POST auth/signin : http://13.124.30.40:8080/auth/signin <br>
+메모 저장
+메모 삭제
+메모 가져오기
+메모 변경하기
 
 프론트엔드<br>
 전체 URL<br>
