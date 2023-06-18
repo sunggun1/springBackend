@@ -16,6 +16,8 @@ public class WebMvcConfig implements WebMvcConfigurer {
                 .allowedOriginPatterns("*")
                 .allowedOrigins("http://localhost:3000")
                 .allowedOrigins("http://13.124.30.40:3000")
+                .allowedOrigins("http://app.memoproject1.com:3000")
+                .allowedOrigins("https://app.memoproject1.com:3000")
                 .allowedMethods("GET","POST","PUT","PATCH", "DELETE", "OPTIONS")
                 .allowedHeaders("*")
                 .allowCredentials(true)
