@@ -6,7 +6,7 @@ server : ec2, rds<br>
 sql : mysql, h2
 <hr>
 
-서버 주소들<br>
+서버 주소들(현재 서버 비용 때문에 내렸습니다.)<br>
 aws backend elastic ip : http://13.124.30.40:8080<br>
 aws frontend elastic ip : http://3.39.145.245:3000<br>
 <hr>
