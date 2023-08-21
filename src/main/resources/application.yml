@@ -6,6 +6,6 @@ spring:
     hibernate:
       ddl-auto: update
   datasource:
-    url: jdbc:mysql://database-1.cbx7alerfivs.ap-northeast-2.rds.amazonaws.com:3306/board?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=Asia/Seoul&characterEncoding=UTF-8
-    username: admin
-    password: test1234
+    url: jdbc:mysql://localhost:3306/board?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=Asia/Seoul&characterEncoding=UTF-8
+    username: root
+    password: password
