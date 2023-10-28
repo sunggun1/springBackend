@@ -70,6 +70,8 @@ healthCheckPage : http://13.124.30.40:8080/ <br>
 jwt token 사용 후 로그인한 사용자의 메모 페이지<br>
 ![image](https://github.com/sunggun1/springBackend/assets/17981550/f512f4c9-1bd1-40c1-9814-44bb42de71d8) <br>
 
+메모 작성<br>
+![image](https://github.com/sunggun1/springBackend/assets/17981550/16d597a2-295b-4b86-b63e-6f4f9298f447)<br>
 
 
 
